@@ -28,7 +28,7 @@ If you want to use existing images, check out the [18F Visual Identity Guide](ht
 Good places to search for public domain (CC0) images:
 
 * [USA.gov](https://search.usa.gov/search/images?affiliate=usagov&query=)
-* [Flickr](https://www.flickr.com/search/?text=cats&license=8) (select “U.S. Government works” or “No known copyright restrictions” from the top left drop down)
+* [Flickr](https://www.flickr.com/search/?text=cats&license=8) (select **U.S. Government works** or **No known copyright restrictions** from the top left drop down)
 * [Wikimedia commons](https://commons.wikimedia.org/wiki/Category:Public_domain)
 
 If you do use copyrighted images:
